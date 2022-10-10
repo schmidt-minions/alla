@@ -427,3 +427,11 @@ input:focus{
         flex-basis: 100%;
 
      }
+/*----cart items--------*/
+.cart-page{
+    margin: 80px auto;
+ }
+ table{
+    width: 100%
+    border-collapse: collapse;
+ }
